@@ -14,7 +14,7 @@ Works in any MCP host (Claude Code, the Claude desktop/web apps, Cowork, or othe
 
 ## Install
 
-- **Cowork / Claude desktop:** download the packaged `hyperagent-orchestrator.skill` and use "Save skill", or add it via Settings → Capabilities.
+- **Cowork / Claude desktop:** download [`dist/hyperagent-orchestrator.skill`](dist/hyperagent-orchestrator.skill) (or grab it from the [latest release](../../releases/latest)) and use "Save skill", or add it via Settings → Capabilities.
 - **Claude Code / manual:** copy the `hyperagent-orchestrator/` folder into your skills directory (e.g. `~/.claude/skills/`).
 
 ## Prerequisite
